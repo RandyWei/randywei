@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Chinahrt
+- 🌱 I’m currently learning dart、Flutter
+- 📫 How to reach me: smile561607154@163.com
