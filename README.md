@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Chinahrt
-- 🌱 I’m currently learning dart、Flutter
+- 🌱 I’m currently learning dart、Flutter、Golang
 - 📫 How to reach me: smile561607154@163.com
